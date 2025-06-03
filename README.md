@@ -2,6 +2,13 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
 
+# instalaciones y gias para correr proyecto
+
+luego de clonar el respositorio hacer un npm install
+npm i preline
+npm install sweetalert2
+correr servidor y luego hacer un ng serve
+
 ## Development server
 
 To start a local development server, run:
