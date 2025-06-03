@@ -84,6 +84,7 @@ export class Authors implements OnInit {
 
   closeModal(): void {
     this.modalService.close();
+    this.resetForm();
   }
 
   saveAuthor(): void {

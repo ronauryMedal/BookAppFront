@@ -67,6 +67,7 @@ export class Books implements OnInit {
 
   closeModal(): void {
     this.modalService.close();
+    this.resetForm();
   } 
 
   saveBook(): void {
